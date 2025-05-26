@@ -65,3 +65,11 @@ Or, if you don't like the export:
 ```
 NODE_OPTIONS=--openssl-legacy-provider elm-app start
 ```
+
+## Dark Mode
+
+https://m2.material.io/design/color/dark-theme.html#properties  
+
+## Using flags to pass current time to init
+
+https://guide.elm-lang.org/interop/flags
